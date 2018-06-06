@@ -1,3 +1,7 @@
+
+### 2018-5-24 域名备案中，请访问备用域名www.szfaka.cc 
+
+
 ### 什么是云尚发卡系统？
 专门为个人或小型企业提供在线售卡，订单处理系统
 
@@ -6,10 +10,10 @@
 * mysql >= 5.2
 * win or linux
 
-### demo地址：[http://demo.yunscx.com](http://demo.yunscx.com/)
+### demo地址：[http://demo.yunscx.com](http://demo.szfaka.cc/)
 
 ### 更多详细内容及配置教程请访问：
-## [程序详情](http://www.yunscx.com/cms/a/ysfaka.html)
+## [程序详情](http://www.szfaka.cc/cms/a/ysfaka.html)
 
 ### BUG反馈、程序交流 QQ群：568679748
 
